@@ -1,5 +1,0 @@
-project: authenticator-rs
-target: u2f_read
-
-cmds:
-    - cmd: /u2f_read
